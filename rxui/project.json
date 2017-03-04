@@ -1,0 +1,14 @@
+﻿{
+  "dependencies": {
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+    "NETStandard.Library": "1.6.0",
+    "reactiveui": "7.2.0"
+  },
+  "frameworks": {
+    "netstandard1.5": {
+      "imports": [
+        "portable-net45+win8+wpa81+wp8"
+      ]
+    }
+  }
+}
